@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Kiran
 
-💻 **DAM Student | Developer | AI Enthusiast**
+**DAM Student | Developer | AI Enthusiast**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Development+%F0%9F%92%BB;Artificial+Intelligence+%F0%9F%A4%96;Linux+%F0%9F%90%A7;Always+learning+%F0%9F%9A%80" />
@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm a **Development of Multiplatform Applications (DAM)** student interested in:
 
